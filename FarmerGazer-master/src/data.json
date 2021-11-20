@@ -1,0 +1,370 @@
+{
+    "frontData": {
+        "condition": "Good",
+        "score": 80,
+        "action": "Weed Clearnance"
+    },
+    "forumData": [
+        {
+            "title": "User1",
+            "description": "test news"
+        },
+        {
+            "title": "User2",
+            "description": "test news"
+        },
+        {
+            "title": "User3",
+            "description": "test news"
+        }
+    ],
+    "harvestPro": {
+        "percentage": 30
+    },
+    "watermark": {
+         "req": 70,
+         "current": 46
+    },
+    "newsData": [
+        {
+            "title": "Title1",
+            "description": "test news"
+        },
+        {
+            "title": "Title2",
+            "description": "test news"
+        },
+        {
+            "title": "Title3",
+            "description": "test news"
+        }
+    ],
+    "preData": [
+        {
+            "title": "Type1",
+            "type": "new1",
+            "date": "08/11/2019",
+            "revenue": 10000000
+        },
+        {
+            "title": "Type2",
+            "type": "new2",
+            "date": "09/11/2019",
+            "revenue": 11000000
+        },
+        {
+            "title": "Type3",
+            "type": "new3",
+            "date": "10/11/2019",
+            "revenue": 12000000
+        },
+        {
+            "title": "Type4",
+            "type": "new4",
+            "date": "11/11/2019",
+            "revenue": 13000000
+        }
+    ],
+    "landData": {
+        "size": 100,
+        "days": 145,
+        "percentage": 77
+    },
+    "revenueData": [
+        {
+            "year": "1991",
+            "value": 3
+        },
+        {
+            "year": "1992",
+            "value": 4
+        },
+        {
+            "year": "1993",
+            "value": 3.5
+        },
+        {
+            "year": "1994",
+            "value": 5
+        },
+        {
+            "year": "1995",
+            "value": 4.9
+        },
+        {
+            "year": "1996",
+            "value": 6
+        },
+        {
+            "year": "1997",
+            "value": 7
+        },
+        {
+            "year": "1998",
+            "value": 9
+        },
+        {
+            "year": "1999",
+            "value": 13
+        }
+    ],
+    "roseData": [
+        {
+            "land": "land1",
+            "progress": 41.8
+          },
+          {
+            "land": "land2",
+            "progress": 38
+          },
+          {
+            "land": "land3",
+            "progress": 33.7
+          },
+          {
+            "land": "land4",
+            "progress": 30.7
+          },
+          {
+            "land": "land5",
+            "progress": 25.8
+          },
+          {
+            "land": "land6",
+            "progress": 31.7
+          },
+          {
+            "land": "land7",
+            "progress": 33
+          },
+          {
+            "land": "land8",
+            "progress": 46
+          },
+          {
+            "land": "land9",
+            "progress": 38.3
+          },
+          {
+            "land": "land10",
+            "progress": 28
+          },
+          {
+            "land": "land11",
+            "progress": 42.5
+          },
+          {
+            "land": "land12",
+            "progress": 30.3
+          }
+    ],
+    "waterStats": [
+        {
+            "title": "Requirement",
+            "Jan.": 18.9,
+            "Feb.": 28.8,
+            "Mar.": 39.3,
+            "Apr.": 81.4,
+            "May": 47,
+            "Jun.": 20.3,
+            "Jul.": 24,
+            "Aug.": 35.6
+          },
+          {
+            "title": "Current",
+            "Jan.": 12.4,
+            "Feb.": 23.2,
+            "Mar.": 34.5,
+            "Apr.": 99.7,
+            "May": 52.6,
+            "Jun.": 35.5,
+            "Jul.": 37.4,
+            "Aug.": 42.4
+          }
+    ],
+    "soilStats": [
+        {
+            "month": "Jan",
+            "city": "Tokyo",
+            "temperature": 7
+        },
+        {
+            "month": "Jan",
+            "city": "London",
+            "temperature": 3.9
+        },
+        {
+            "month": "Jan",
+            "city": "Paris",
+            "temperature": 5
+        },  
+        {
+            "month": "Feb",
+            "city": "Tokyo",
+            "temperature": 6.9
+        },
+        {
+            "month": "Feb",
+            "city": "London",
+            "temperature": 4.2
+        },
+        {
+             "month": "Feb",
+             "city": "Paris",
+             "temperature": 4.5
+        },
+        {
+            "month": "Mar",
+            "city": "Tokyo",
+            "temperature": 9.5
+        },
+        {
+            "month": "Mar",
+            "city": "London",
+            "temperature": 5.7
+        },
+        {
+         "month": "Mar",
+         "city": "Paris",
+         "temperature": 6.6
+        },
+        {
+            "month": "Apr",
+            "city": "Tokyo",
+            "temperature": 14.5
+        },
+        {
+            "month": "Apr",
+            "city": "London",
+            "temperature": 8.5
+        },
+        {
+         "month": "Apr",
+         "city": "Paris",
+         "temperature": 12
+        },
+        {
+            "month": "May",
+            "city": "Tokyo",
+            "temperature": 18.4
+        },
+        {
+            "month": "May",
+            "city": "London",
+            "temperature": 11.9
+        },
+        {
+         "month": "May",
+         "city": "Paris",
+         "temperature": 14
+        },
+        {
+            "month": "Jun",
+            "city": "Tokyo",
+            "temperature": 21.5
+        },
+        {
+            "month": "Jun",
+            "city": "London",
+            "temperature": 15.2
+        },
+        {
+         "month": "Jun",
+         "city": "Paris",
+         "temperature": 18
+        },
+        {
+            "month": "Jul",
+            "city": "Tokyo",
+            "temperature": 25.2
+        },
+        {
+            "month": "Jul",
+            "city": "London",
+            "temperature": 17
+        },
+        {
+         "month": "Jul",
+         "city": "Paris",
+         "temperature": 20
+        },
+        {
+            "month": "Aug",
+            "city": "Tokyo",
+            "temperature": 26.5
+        },
+        {
+            "month": "Aug",
+            "city": "London",
+            "temperature": 16.6
+        },
+        {
+         "month": "Aug",
+         "city": "Paris",
+         "temperature": 20
+        },
+        {
+            "month": "Sep",
+            "city": "Tokyo",
+            "temperature": 23.3
+        },
+        {
+            "month": "Sep",
+            "city": "London",
+            "temperature": 14.2
+        },
+        {
+         "month": "Sep",
+         "city": "Paris",
+         "temperature": 18
+        },
+        {
+            "month": "Oct",
+            "city": "Tokyo",
+            "temperature": 18.3
+        },
+        {
+            "month": "Oct",
+            "city": "London",
+            "temperature": 10.3
+        },
+        {
+         "month": "Oct",
+         "city": "Paris",
+         "temperature": 13
+        },
+        {
+            "month": "Nov",
+            "city": "Tokyo",
+            "temperature": 13.9
+        },
+        {
+            "month": "Nov",
+            "city": "London",
+            "temperature": 6.6
+        },
+        {
+         "month": "Nov",
+         "city": "Paris",
+         "temperature": 8
+        },
+        {
+            "month": "Dec",
+            "city": "Tokyo",
+            "temperature": 9.6
+        },
+        {
+            "month": "Dec",
+            "city": "London",
+            "temperature": 4.8
+        },
+        {
+         "month": "Dec",
+         "city": "Paris",
+         "temperature": 7
+     }
+    ],
+    "expRevenue": {
+        "revenue": 3000000
+    }
+ }

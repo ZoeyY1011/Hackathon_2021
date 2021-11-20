@@ -1,0 +1,30 @@
+.app {
+  height: 100vh;
+  display: flex;
+
+  &__logo {
+    height: 34px;
+    background: url('./assets/logo/logo.png') center center no-repeat;
+    background-size: contain;
+    margin: 16px;
+  }
+
+  &__navigation {
+    background-color: #eeeff2;
+    height: 100vh;
+  }
+
+  &__menu {
+    background-color: transparent;
+
+    .ant-menu-item-selected {
+      background-color: #dddfe4 !important;
+      font-weight: 600;
+      color: #000;
+    }
+  }
+
+  &__main {
+    flex: 1;
+  }
+}

@@ -1,0 +1,32 @@
+.side-bar {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 270px;
+  border-right: 1px solid rgba(214, 220, 225, .5);
+
+  &__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    padding: 0 15px;
+    border-bottom: 1px solid rgba(214, 220, 225, .5);
+  }
+
+  &__body {
+    flex: 1;
+  }
+
+  &__icon, &__title {
+    color: #000;
+  }
+
+  &__icon {
+    font-size: 17px;
+  }
+
+  &__title {
+    margin: 0;
+  }
+}

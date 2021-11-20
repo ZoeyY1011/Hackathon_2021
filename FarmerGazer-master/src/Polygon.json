@@ -1,0 +1,207 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "size": "1.72",
+        "id": 1,
+        "todolist": [
+          {
+            "title": "Weed Clearing",
+            "topic": "Weeds",
+            "description": ""
+          }
+        ],
+        "harvest_days": 88,
+        "activity_history": [
+          {
+            "title": "Field Created",
+            "date": "2019-11-22",
+            "topic": "",
+            "description": ""
+          }
+        ],
+        "center": {
+          "lat": -20.826816456339373,
+          "lng": 148.7159371376038
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              148.714199,
+              -20.826405
+            ],
+            [
+              148.714542,
+              -20.825984
+            ],
+            [
+              148.715508,
+              -20.826806
+            ],
+            [
+              148.71628,
+              -20.827268
+            ],
+            [
+              148.717139,
+              -20.827067
+            ],
+            [
+              148.717675,
+              -20.827488
+            ],
+            [
+              148.716602,
+              -20.827649
+            ],
+            [
+              148.715723,
+              -20.827468
+            ],
+            [
+              148.714993,
+              -20.826887
+            ],
+            [
+              148.714199,
+              -20.826405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "size": "3.43",
+        "id": 2,
+        "todolist": [
+          {
+            "title": "Water sugarcanes",
+            "topic": "Waterlogging",
+            "description": ""
+          },
+          {
+            "title": "Pests control",
+            "topic": "Pests",
+            "description": ""
+          }
+        ],
+        "harvest_days": 71,
+        "activity_history": [
+          {
+            "title": "PH test",
+            "topic": "Other",
+            "description": "",
+            "date": "2019-11-22T06:10:27+11:00"
+          },
+          {
+            "title": "Field Created",
+            "date": "2019-11-22",
+            "topic": "",
+            "description": ""
+          }
+        ],
+        "center": {
+          "lat": -20.82632007806158,
+          "lng": 148.72335612773898
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              148.72113,
+              -20.825733
+            ],
+            [
+              148.722138,
+              -20.825322
+            ],
+            [
+              148.725582,
+              -20.826917
+            ],
+            [
+              148.724649,
+              -20.827318
+            ],
+            [
+              148.72113,
+              -20.825733
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "size": "8.30",
+        "id": 3,
+        "todolist": [
+          {
+            "title": "Species Selection",
+            "topic": "Other",
+            "description": ""
+          },
+          {
+            "title": "Remove Weeds",
+            "topic": "Weeds",
+            "description": ""
+          }
+        ],
+        "harvest_days": 95,
+        "activity_history": [
+          {
+            "title": "Field Created",
+            "date": "2019-11-22",
+            "topic": "",
+            "description": ""
+          }
+        ],
+        "center": {
+          "lat": -20.827538442274758,
+          "lng": 148.72073829174045
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              148.720776,
+              -20.829785
+            ],
+            [
+              148.718973,
+              -20.825292
+            ],
+            [
+              148.7204,
+              -20.825864
+            ],
+            [
+              148.721259,
+              -20.826415
+            ],
+            [
+              148.722503,
+              -20.829745
+            ],
+            [
+              148.720776,
+              -20.829785
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
